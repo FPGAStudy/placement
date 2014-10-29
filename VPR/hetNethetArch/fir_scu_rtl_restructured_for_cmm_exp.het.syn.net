@@ -1,0 +1,1020 @@
+.clb hetero_REGISTER_429_10941_out
+pinlist: net2 net47 net62 net81 net84 net87 net168 net171 open open \
+open open open open open open open open open open \
+open open open open open open net59 net72 net90 net165 \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10941_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10941_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_429_10941_out2 8 open open open 28 open
+subblock: hetero_REGISTER_429_10941_out3 8 open open open 29 open
+
+.clb n1468
+pinlist: net0 net2 net3 net4 net5 net6 net7 net10 net55 net61 \
+net64 open open open open open open open open open \
+open open open open open open net44 net46 net52 net58 \
+net68 open open open open open open open open
+subblock: n14680 0 1 2 3 26 38
+subblock: n14681 4 5 6 7 27 open
+subblock: n14682 8 9 10 open 28 open
+subblock: n14683 11 open open open 29 open
+subblock: n14684 11 open open open 30 open
+
+.clb hetero_REGISTER_22_11113_out
+pinlist: net0 net1 net2 net3 net4 net6 net8 net9 net16 net17 \
+net36 net502 open open open open open open open open \
+open open open open open open net502 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_22_11113_out0 0 1 ble_5 open 26 38
+subblock: hetero_REGISTER_22_11113_out1 2 3 ble_4 open 27 open
+subblock: hetero_REGISTER_22_11113_out2 4 5 ble_3 open 28 open
+subblock: hetero_REGISTER_22_11113_out3 6 7 ble_2 open 29 open
+subblock: hetero_REGISTER_22_11113_out4 8 9 ble_1 open 30 open
+subblock: hetero_REGISTER_22_11113_out5 10 11 open open 31 open
+
+.clb hetero_REGISTER_22_11112_out
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net9 net10 \
+net17 net19 open open open open open open open open \
+open open open open open open net16 net36 open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_22_11112_out0 0 1 ble_5 open 26 38
+subblock: hetero_REGISTER_22_11112_out1 2 3 ble_4 open 27 open
+subblock: hetero_REGISTER_22_11112_out2 4 5 ble_3 open 28 open
+subblock: hetero_REGISTER_22_11112_out3 6 7 ble_2 open 29 open
+subblock: hetero_REGISTER_22_11112_out4 8 9 open open 30 open
+subblock: hetero_REGISTER_22_11112_out5 10 11 open open 31 open
+
+.clb hetero_REGISTER_22_11111_out
+pinlist: net0 net1 net3 net4 net6 net7 net8 net9 net10 net16 \
+net17 net19 net131 net186 net190 open open open open open \
+open open open open open open net2 net5 net175 net179 \
+net183 open open open open open open open open
+subblock: hetero_REGISTER_22_11111_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11111_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11111_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_22_11111_out3 12 13 14 open 29 open
+subblock: hetero_REGISTER_22_11111_out4 15 open open open 30 open
+
+.clb hetero_REGISTER_22_11110_out
+pinlist: net0 net1 net101 net117 net143 net149 net152 net158 net161 net192 \
+net195 open open open open open open open open open \
+open open open open open open net98 net111 net146 net155 \
+net164 net188 net199 net202 open open open open open
+subblock: hetero_REGISTER_22_11110_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11110_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11110_out2 8 9 10 open 28 open
+subblock: hetero_REGISTER_22_11110_out3 11 open open open 29 open
+subblock: hetero_REGISTER_22_11110_out4 11 open open open 30 open
+subblock: hetero_REGISTER_22_11110_out5 11 open open open 31 open
+subblock: hetero_REGISTER_22_11110_out6 11 open open open 32 open
+subblock: hetero_REGISTER_22_11110_out7 11 open open open 33 open
+
+.clb hetero_REGISTER_22_11109_out
+pinlist: net0 net1 net43 net130 net176 net300 net361 net385 net408 net415 \
+net422 open open open open open open open open open \
+open open open open open open net237 net333 open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_22_11109_out0 0 1 ble_5 open 26 38
+subblock: hetero_REGISTER_22_11109_out1 2 3 ble_4 open 27 open
+subblock: hetero_REGISTER_22_11109_out2 4 5 ble_3 open 28 open
+subblock: hetero_REGISTER_22_11109_out3 6 7 ble_2 open 29 open
+subblock: hetero_REGISTER_22_11109_out4 8 9 open open 30 open
+subblock: hetero_REGISTER_22_11109_out5 10 open open open 31 open
+
+.clb hetero_REGISTER_22_11108_out
+pinlist: net1 net30 net37 net122 net134 net241 net308 net334 net362 net386 \
+net409 open open open open open open open open open \
+open open open open open open net43 net182 open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_22_11108_out0 0 1 ble_5 open 26 38
+subblock: hetero_REGISTER_22_11108_out1 2 3 ble_4 open 27 open
+subblock: hetero_REGISTER_22_11108_out2 4 5 ble_3 open 28 open
+subblock: hetero_REGISTER_22_11108_out3 6 7 ble_2 open 29 open
+subblock: hetero_REGISTER_22_11108_out4 8 9 open open 30 open
+subblock: hetero_REGISTER_22_11108_out5 10 open open open 31 open
+
+.clb hetero_REGISTER_22_11107_out
+pinlist: net30 net37 net139 net153 net159 net162 net223 net229 net235 open \
+open open open open open open open open open open \
+open open open open open open net147 net156 net196 net200 \
+net204 net207 net220 net226 net232 open open open open
+subblock: hetero_REGISTER_22_11107_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11107_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11107_out2 8 open open open 28 open
+subblock: hetero_REGISTER_22_11107_out3 9 open open open 29 open
+subblock: hetero_REGISTER_22_11107_out4 9 open open open 30 open
+subblock: hetero_REGISTER_22_11107_out5 9 open open open 31 open
+subblock: hetero_REGISTER_22_11107_out6 9 open open open 32 open
+subblock: hetero_REGISTER_22_11107_out7 9 open open open 33 open
+subblock: hetero_REGISTER_22_11107_out8 9 open open open 34 open
+
+.clb hetero_REGISTER_22_11106_out
+pinlist: net352 net378 net414 net435 net440 net453 open open open open \
+open open open open open open open open open open \
+open open open open open open net332 net407 net421 net428 \
+net445 net450 net456 net459 open open open open open
+subblock: hetero_REGISTER_22_11106_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11106_out1 4 5 open open 27 open
+subblock: hetero_REGISTER_22_11106_out2 6 open open open 28 open
+subblock: hetero_REGISTER_22_11106_out3 6 open open open 29 open
+subblock: hetero_REGISTER_22_11106_out4 6 open open open 30 open
+subblock: hetero_REGISTER_22_11106_out5 6 open open open 31 open
+subblock: hetero_REGISTER_22_11106_out6 6 open open open 32 open
+subblock: hetero_REGISTER_22_11106_out7 6 open open open 33 open
+
+.clb hetero_REGISTER_429_10965_out
+pinlist: net457 net460 net462 net466 net468 net470 net472 open open open \
+open open open open open open open open open open \
+open open open open open open net454 net464 net474 open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10965_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10965_out1 4 5 6 open 27 open
+subblock: hetero_REGISTER_429_10965_out2 7 open open open 28 open
+
+.clb hetero_REGISTER_429_10973_out
+pinlist: net442 net455 net458 open open open open open open open \
+open open open open open open open open open open \
+open open open open open open net437 net447 net452 net461 \
+net463 net465 net467 open open open open open open
+subblock: hetero_REGISTER_429_10973_out0 0 1 2 open 26 38
+subblock: hetero_REGISTER_429_10973_out1 3 open open open 27 open
+subblock: hetero_REGISTER_429_10973_out2 3 open open open 28 open
+subblock: hetero_REGISTER_429_10973_out3 3 open open open 29 open
+subblock: hetero_REGISTER_429_10973_out4 3 open open open 30 open
+subblock: hetero_REGISTER_429_10973_out5 3 open open open 31 open
+subblock: hetero_REGISTER_429_10973_out6 3 open open open 32 open
+
+.clb n1469
+pinlist: net2 net45 net48 net51 net53 net63 net75 net78 net85 net87 \
+net88 net90 open open open open open open open open \
+open open open open open open net50 net56 net60 net65 \
+net66 net69 net73 net84 open open open open open
+subblock: n14690 0 1 2 3 26 38
+subblock: n14691 4 5 6 7 27 open
+subblock: n14692 8 9 10 11 28 open
+subblock: n14693 12 open open open 29 open
+subblock: n14694 12 open open open 30 open
+subblock: n14695 12 open open open 31 open
+subblock: n14696 12 open open open 32 open
+subblock: n14697 12 open open open 33 open
+
+.clb hetero_REGISTER_429_10961_out
+pinlist: net2 net3 net4 net5 net6 net7 net8 net10 net11 net12 \
+net13 net14 net15 net55 net58 net61 net68 open open open \
+open open open open open open net0 net49 net64 open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10961_out0 0 1 ble_8 open 26 38
+subblock: hetero_REGISTER_429_10961_out1 2 3 ble_7 open 27 open
+subblock: hetero_REGISTER_429_10961_out2 4 5 ble_6 open 28 open
+subblock: hetero_REGISTER_429_10961_out3 6 7 ble_5 open 29 open
+subblock: hetero_REGISTER_429_10961_out4 8 9 ble_4 open 30 open
+subblock: hetero_REGISTER_429_10961_out5 10 11 ble_3 open 31 open
+subblock: hetero_REGISTER_429_10961_out6 12 13 open open 32 open
+subblock: hetero_REGISTER_429_10961_out7 14 15 open open 33 open
+subblock: hetero_REGISTER_429_10961_out8 16 open open open 34 open
+
+.clb hetero_REGISTER_429_10968_out
+pinlist: net0 net2 net3 net5 net6 net7 net8 net9 net10 net11 \
+net12 net13 net15 net16 net17 net36 open open open open \
+open open open open open open net1 net4 net14 net18 \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10968_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10968_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_429_10968_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_429_10968_out3 12 13 14 15 29 open
+
+.clb hetero_REGISTER_429_10963_out
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net8 net10 \
+net11 net12 net13 net14 net15 net16 net18 net19 net36 open \
+open open open open open open net17 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10963_out0 0 1 ble_9 open 26 38
+subblock: hetero_REGISTER_429_10963_out1 2 3 ble_8 open 27 open
+subblock: hetero_REGISTER_429_10963_out2 4 5 ble_7 open 28 open
+subblock: hetero_REGISTER_429_10963_out3 6 7 ble_6 open 29 open
+subblock: hetero_REGISTER_429_10963_out4 8 9 ble_5 open 30 open
+subblock: hetero_REGISTER_429_10963_out5 10 11 ble_4 open 31 open
+subblock: hetero_REGISTER_429_10963_out6 12 13 ble_3 open 32 open
+subblock: hetero_REGISTER_429_10963_out7 14 15 ble_2 open 33 open
+subblock: hetero_REGISTER_429_10963_out8 16 17 ble_1 open 34 open
+subblock: hetero_REGISTER_429_10963_out9 18 open open open 35 open
+
+.clb hetero_REGISTER_429_10974_out
+pinlist: net0 net1 net2 net5 net6 net7 net8 net9 net10 net11 \
+net12 net13 net14 net15 net16 net17 net18 net19 open open \
+open open open open open open net3 net131 open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10974_out0 0 1 ble_8 open 26 38
+subblock: hetero_REGISTER_429_10974_out1 2 3 ble_7 open 27 open
+subblock: hetero_REGISTER_429_10974_out2 4 5 ble_6 open 28 open
+subblock: hetero_REGISTER_429_10974_out3 6 7 ble_5 open 29 open
+subblock: hetero_REGISTER_429_10974_out4 8 9 ble_4 open 30 open
+subblock: hetero_REGISTER_429_10974_out5 10 11 ble_3 open 31 open
+subblock: hetero_REGISTER_429_10974_out6 12 13 ble_2 open 32 open
+subblock: hetero_REGISTER_429_10974_out7 14 15 open open 33 open
+subblock: hetero_REGISTER_429_10974_out8 16 17 open open 34 open
+
+.clb hetero_REGISTER_22_11105_out
+pinlist: net0 net1 net92 net95 net104 net114 net133 net135 net146 net152 \
+net155 net158 net161 net164 open open open open open open \
+open open open open open open net108 net128 net149 net173 \
+net181 open open open open open open open open
+subblock: hetero_REGISTER_22_11105_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11105_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11105_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_22_11105_out3 12 13 open open 29 open
+subblock: hetero_REGISTER_22_11105_out4 14 open open open 30 open
+
+.clb n1421_1
+pinlist: net0 net1 net25 net31 net43 net123 net136 net237 net333 open \
+open open open open open open open open open open \
+open open open open open open net130 net176 net197 net257 \
+net300 net319 net361 net385 net408 net415 net422 open open
+subblock: n1421_10 0 1 2 3 26 38
+subblock: n1421_11 4 5 6 7 27 open
+subblock: n1421_12 8 open open open 28 open
+subblock: n1421_13 9 open open open 29 open
+subblock: n1421_14 9 open open open 30 open
+subblock: n1421_15 9 open open open 31 open
+subblock: n1421_16 9 open open open 32 open
+subblock: n1421_17 9 open open open 33 open
+subblock: n1421_18 9 open open open 34 open
+subblock: n1421_19 9 open open open 35 open
+subblock: n1421_110 9 open open open 36 open
+
+.clb hetero_REGISTER_22_11098_out
+pinlist: net1 net20 net25 net26 net31 net32 net37 net43 net122 net124 \
+net134 net137 net182 open open open open open open open \
+open open open open open open net39 net241 net308 net334 \
+net362 net386 net409 open open open open open open
+subblock: hetero_REGISTER_22_11098_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11098_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11098_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_22_11098_out3 12 open open open 29 open
+subblock: hetero_REGISTER_22_11098_out4 13 open open open 30 open
+subblock: hetero_REGISTER_22_11098_out5 13 open open open 31 open
+subblock: hetero_REGISTER_22_11098_out6 13 open open open 32 open
+
+.clb hetero_REGISTER_22_11104_out
+pinlist: net20 net26 net39 net144 net150 net151 net154 net156 net157 net159 \
+net160 open open open open open open open open open \
+open open open open open open net30 net37 net153 net162 \
+net163 net184 net187 net191 open open open open open
+subblock: hetero_REGISTER_22_11104_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11104_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11104_out2 8 9 10 open 28 open
+subblock: hetero_REGISTER_22_11104_out3 11 open open open 29 open
+subblock: hetero_REGISTER_22_11104_out4 11 open open open 30 open
+subblock: hetero_REGISTER_22_11104_out5 11 open open open 31 open
+subblock: hetero_REGISTER_22_11104_out6 11 open open open 32 open
+subblock: hetero_REGISTER_22_11104_out7 11 open open open 33 open
+
+.clb hetero_REGISTER_22_11101_out
+pinlist: net316 net332 net337 net388 net407 net421 net428 net445 net450 net456 \
+net459 open open open open open open open open open \
+open open open open open open net189 net248 net352 net363 \
+net378 net414 net435 net440 net453 open open open open
+subblock: hetero_REGISTER_22_11101_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11101_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11101_out2 8 9 10 open 28 open
+subblock: hetero_REGISTER_22_11101_out3 11 open open open 29 open
+subblock: hetero_REGISTER_22_11101_out4 11 open open open 30 open
+subblock: hetero_REGISTER_22_11101_out5 11 open open open 31 open
+subblock: hetero_REGISTER_22_11101_out6 11 open open open 32 open
+subblock: hetero_REGISTER_22_11101_out7 11 open open open 33 open
+subblock: hetero_REGISTER_22_11101_out8 11 open open open 34 open
+
+.clb hetero_REGISTER_22_11103_out
+pinlist: net417 net424 net438 net443 net448 net454 net464 net474 open open \
+open open open open open open open open open open \
+open open open open open open net338 net364 net397 net410 \
+net431 net457 net460 net462 net466 net468 net470 net472 open
+subblock: hetero_REGISTER_22_11103_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11103_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11103_out2 8 open open open 28 open
+subblock: hetero_REGISTER_22_11103_out3 8 open open open 29 open
+subblock: hetero_REGISTER_22_11103_out4 8 open open open 30 open
+subblock: hetero_REGISTER_22_11103_out5 8 open open open 31 open
+subblock: hetero_REGISTER_22_11103_out6 8 open open open 32 open
+subblock: hetero_REGISTER_22_11103_out7 8 open open open 33 open
+subblock: hetero_REGISTER_22_11103_out8 8 open open open 34 open
+subblock: hetero_REGISTER_22_11103_out9 8 open open open 35 open
+subblock: hetero_REGISTER_22_11103_out10 8 open open open 36 open
+subblock: hetero_REGISTER_22_11103_out11 8 open open open 37 open
+
+.clb hetero_REGISTER_22_11102_out
+pinlist: net203 net262 net339 net373 net398 net411 net418 net425 net437 net447 \
+net452 net461 net463 net465 net467 open open open open open \
+open open open open open open net327 net432 net442 net455 \
+net458 open open open open open open open open
+subblock: hetero_REGISTER_22_11102_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11102_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11102_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_22_11102_out3 12 13 14 open 29 open
+subblock: hetero_REGISTER_22_11102_out4 15 open open open 30 open
+
+.clb n1537
+pinlist: net304 net305 net314 net315 net318 net326 net336 net346 net351 open \
+open open open open open open open open open open \
+open open open open open open net302 net307 net309 net311 \
+net312 net320 net323 net343 net355 net358 net365 open open
+subblock: n15370 0 1 2 3 26 38
+subblock: n15371 4 5 6 7 27 open
+subblock: n15372 8 open open open 28 open
+subblock: n15373 9 open open open 29 open
+subblock: n15374 9 open open open 30 open
+subblock: n15375 9 open open open 31 open
+subblock: n15376 9 open open open 32 open
+subblock: n15377 9 open open open 33 open
+subblock: n15378 9 open open open 34 open
+subblock: n15379 9 open open open 35 open
+subblock: n153710 9 open open open 36 open
+
+.clb n1801
+pinlist: net2 net50 net54 net56 net57 net59 net65 net67 net69 net70 \
+net72 net78 net81 net82 open open open open open open \
+open open open open open open net47 net53 net62 net75 \
+net76 net79 open open open open open open open
+subblock: n18010 0 1 2 3 26 38
+subblock: n18011 4 5 6 7 27 open
+subblock: n18012 8 9 10 11 28 open
+subblock: n18013 12 13 open open 29 open
+subblock: n18014 14 open open open 30 open
+subblock: n18015 14 open open open 31 open
+
+.clb n1735
+pinlist: net0 net2 net3 net4 net5 net6 net7 net8 net9 net10 \
+net11 net12 net13 net14 net15 net21 net44 net46 net49 net52 \
+net503 open open open open open net503 open open open \
+open open open open open open open open open
+subblock: n17350 0 1 ble_10 open 26 38
+subblock: n17351 2 3 ble_9 open 27 open
+subblock: n17352 4 5 ble_8 open 28 open
+subblock: n17353 6 7 ble_7 open 29 open
+subblock: n17354 8 9 ble_6 open 30 open
+subblock: n17355 10 11 ble_5 open 31 open
+subblock: n17356 12 13 ble_4 open 32 open
+subblock: n17357 14 15 ble_3 open 33 open
+subblock: n17358 16 17 ble_2 open 34 open
+subblock: n17359 18 19 ble_1 open 35 open
+subblock: n173510 20 open open open 36 open
+
+.clb n1845
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net8 net10 \
+net11 net12 net13 net14 net15 net16 net17 net18 net21 open \
+open open open open open open net9 open open open \
+open open open open open open open open open
+subblock: n18450 0 1 ble_9 open 26 38
+subblock: n18451 2 3 ble_8 open 27 open
+subblock: n18452 4 5 ble_7 open 28 open
+subblock: n18453 6 7 ble_6 open 29 open
+subblock: n18454 8 9 ble_5 open 30 open
+subblock: n18455 10 11 ble_4 open 31 open
+subblock: n18456 12 13 ble_3 open 32 open
+subblock: n18457 14 15 ble_2 open 33 open
+subblock: n18458 16 17 ble_1 open 34 open
+subblock: n18459 18 open open open 35 open
+
+.clb n1757
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net9 net11 \
+net12 net13 net14 net15 net16 net17 net18 net19 net22 open \
+open open open open open open net8 open open open \
+open open open open open open open open open
+subblock: n17570 0 1 ble_9 open 26 38
+subblock: n17571 2 3 ble_8 open 27 open
+subblock: n17572 4 5 ble_7 open 28 open
+subblock: n17573 6 7 ble_6 open 29 open
+subblock: n17574 8 9 ble_5 open 30 open
+subblock: n17575 10 11 ble_4 open 31 open
+subblock: n17576 12 13 ble_3 open 32 open
+subblock: n17577 14 15 ble_2 open 33 open
+subblock: n17578 16 17 ble_1 open 34 open
+subblock: n17579 18 open open open 35 open
+
+.clb n1779
+pinlist: net0 net1 net2 net3 net4 net5 net6 net8 net9 net10 \
+net11 net14 net15 net16 net17 net18 open open open open \
+open open open open open open net7 net12 net13 net19 \
+open open open open open open open open open
+subblock: n17790 0 1 2 3 26 38
+subblock: n17791 4 5 6 7 27 open
+subblock: n17792 8 9 10 11 28 open
+subblock: n17793 12 13 14 15 29 open
+
+.clb n1713
+pinlist: net0 net1 net27 net40 net98 net101 net104 net108 net111 net117 \
+net125 net128 net133 net135 net143 open open open open open \
+open open open open open open net33 net92 net95 net114 \
+net138 open open open open open open open open
+subblock: n17130 0 1 2 3 26 38
+subblock: n17131 4 5 6 7 27 open
+subblock: n17132 8 9 10 11 28 open
+subblock: n17133 12 13 14 open 29 open
+subblock: n17134 15 open open open 30 open
+
+.clb n1691
+pinlist: net0 net1 net25 net27 net28 net33 net34 net40 net41 net126 \
+net130 net140 net197 net211 net257 net319 net329 open open open \
+open open open open open open net123 net136 net286 open \
+open open open open open open open open open
+subblock: n16910 0 1 ble_8 open 26 38
+subblock: n16911 2 3 ble_7 open 27 open
+subblock: n16912 4 5 ble_6 open 28 open
+subblock: n16913 6 7 ble_5 open 29 open
+subblock: n16914 8 9 ble_4 open 30 open
+subblock: n16915 10 11 ble_3 open 31 open
+subblock: n16916 12 13 open open 32 open
+subblock: n16917 14 15 open open 33 open
+subblock: n16918 16 open open open 34 open
+
+.clb n1867
+pinlist: net1 net23 net28 net30 net32 net34 net35 net39 net124 net127 \
+net137 net141 open open open open open open open open \
+open open open open open open net20 net25 net26 net31 \
+net41 net42 net122 net134 open open open open open
+subblock: n18670 0 1 2 3 26 38
+subblock: n18671 4 5 6 7 27 open
+subblock: n18672 8 9 10 11 28 open
+subblock: n18673 12 open open open 29 open
+subblock: n18674 12 open open open 30 open
+subblock: n18675 12 open open open 31 open
+subblock: n18676 12 open open open 32 open
+subblock: n18677 12 open open open 33 open
+
+.clb n1581_1
+pinlist: net20 net26 net29 net30 net32 net35 net39 net42 net107 net119 \
+net121 net139 net145 net147 net150 open open open open open \
+open open open open open open net23 net129 net142 net144 \
+net148 open open open open open open open open
+subblock: n1581_10 0 1 2 3 26 38
+subblock: n1581_11 4 5 6 7 27 open
+subblock: n1581_12 8 9 10 11 28 open
+subblock: n1581_13 12 13 14 open 29 open
+subblock: n1581_14 15 open open open 30 open
+
+.clb n1823
+pinlist: net189 net209 net248 net303 net306 net313 net321 net328 net331 net363 \
+net374 open open open open open open open open open \
+open open open open open open net270 net310 net316 net317 \
+net324 net337 net342 net388 net399 open open open open
+subblock: n18230 0 1 2 3 26 38
+subblock: n18231 4 5 6 7 27 open
+subblock: n18232 8 9 10 open 28 open
+subblock: n18233 11 open open open 29 open
+subblock: n18234 11 open open open 30 open
+subblock: n18235 11 open open open 31 open
+subblock: n18236 11 open open open 32 open
+subblock: n18237 11 open open open 33 open
+subblock: n18238 11 open open open 34 open
+
+.clb n1428
+pinlist: net338 net364 net375 net397 net400 net410 net426 net431 net433 open \
+open open open open open open open open open open \
+open open open open open open net349 net412 net417 net419 \
+net424 net438 net439 net443 net444 net448 net449 open open
+subblock: n14280 0 1 2 3 26 38
+subblock: n14281 4 5 6 7 27 open
+subblock: n14282 8 open open open 28 open
+subblock: n14283 9 open open open 29 open
+subblock: n14284 9 open open open 30 open
+subblock: n14285 9 open open open 31 open
+subblock: n14286 9 open open open 32 open
+subblock: n14287 9 open open open 33 open
+subblock: n14288 9 open open open 34 open
+subblock: n14289 9 open open open 35 open
+subblock: n142810 9 open open open 36 open
+
+.clb n1415_1
+pinlist: net291 net327 net330 net350 net376 net405 net413 net420 net432 open \
+open open open open open open open open open open \
+open open open open open open net203 net217 net262 net339 \
+net373 net398 net411 net418 net425 net427 net434 open open
+subblock: n1415_10 0 1 2 3 26 38
+subblock: n1415_11 4 5 6 7 27 open
+subblock: n1415_12 8 open open open 28 open
+subblock: n1415_13 9 open open open 29 open
+subblock: n1415_14 9 open open open 30 open
+subblock: n1415_15 9 open open open 31 open
+subblock: n1415_16 9 open open open 32 open
+subblock: n1415_17 9 open open open 33 open
+subblock: n1415_18 9 open open open 34 open
+subblock: n1415_19 9 open open open 35 open
+subblock: n1415_110 9 open open open 36 open
+
+.clb n1450_1
+pinlist: net219 net271 net277 net287 net294 net301 open open open open \
+open open open open open open open open open open \
+open open open open open open net243 net250 net253 net256 \
+net260 net264 net267 net274 net280 net283 net290 net297 open
+subblock: n1450_10 0 1 2 3 26 38
+subblock: n1450_11 4 5 open open 27 open
+subblock: n1450_12 6 open open open 28 open
+subblock: n1450_13 6 open open open 29 open
+subblock: n1450_14 6 open open open 30 open
+subblock: n1450_15 6 open open open 31 open
+subblock: n1450_16 6 open open open 32 open
+subblock: n1450_17 6 open open open 33 open
+subblock: n1450_18 6 open open open 34 open
+subblock: n1450_19 6 open open open 35 open
+subblock: n1450_110 6 open open open 36 open
+subblock: n1450_111 6 open open open 37 open
+
+.clb n1436_1
+pinlist: net2 net48 net54 net57 net60 net66 net67 net73 net76 net79 \
+net85 net93 net99 net102 open open open open open open \
+open open open open open open net45 net51 net63 net70 \
+net82 net88 open open open open open open open
+subblock: n1436_10 0 1 2 3 26 38
+subblock: n1436_11 4 5 6 7 27 open
+subblock: n1436_12 8 9 10 11 28 open
+subblock: n1436_13 12 13 open open 29 open
+subblock: n1436_14 14 open open open 30 open
+subblock: n1436_15 14 open open open 31 open
+
+.clb hetero_REGISTER_429_10949_out
+pinlist: net0 net2 net3 net4 net5 net6 net7 net8 net9 net10 \
+net11 net12 net13 net14 net15 net71 net74 net86 net89 open \
+open open open open open open net21 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10949_out0 0 1 ble_9 open 26 38
+subblock: hetero_REGISTER_429_10949_out1 2 3 ble_8 open 27 open
+subblock: hetero_REGISTER_429_10949_out2 4 5 ble_7 open 28 open
+subblock: hetero_REGISTER_429_10949_out3 6 7 ble_6 open 29 open
+subblock: hetero_REGISTER_429_10949_out4 8 9 ble_5 open 30 open
+subblock: hetero_REGISTER_429_10949_out5 10 11 ble_4 open 31 open
+subblock: hetero_REGISTER_429_10949_out6 12 13 ble_3 open 32 open
+subblock: hetero_REGISTER_429_10949_out7 14 15 ble_2 open 33 open
+subblock: hetero_REGISTER_429_10949_out8 16 17 ble_1 open 34 open
+subblock: hetero_REGISTER_429_10949_out9 18 open open open 35 open
+
+.clb hetero_REGISTER_429_10952_out
+pinlist: net0 net1 net2 net3 net4 net7 net8 net9 net10 net11 \
+net12 net13 net14 net15 net16 net17 net18 net21 net22 open \
+open open open open open open net6 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10952_out0 0 1 ble_9 open 26 38
+subblock: hetero_REGISTER_429_10952_out1 2 3 ble_8 open 27 open
+subblock: hetero_REGISTER_429_10952_out2 4 5 ble_7 open 28 open
+subblock: hetero_REGISTER_429_10952_out3 6 7 ble_6 open 29 open
+subblock: hetero_REGISTER_429_10952_out4 8 9 ble_5 open 30 open
+subblock: hetero_REGISTER_429_10952_out5 10 11 ble_4 open 31 open
+subblock: hetero_REGISTER_429_10952_out6 12 13 ble_3 open 32 open
+subblock: hetero_REGISTER_429_10952_out7 14 15 ble_2 open 33 open
+subblock: hetero_REGISTER_429_10952_out8 16 17 ble_1 open 34 open
+subblock: hetero_REGISTER_429_10952_out9 18 open open open 35 open
+
+.clb n1464
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net9 net10 \
+net11 net12 net13 net14 net15 net16 net17 net18 net19 net22 \
+net504 open open open open open net504 open open open \
+open open open open open open open open open
+subblock: n14640 0 1 ble_10 open 26 38
+subblock: n14641 2 3 ble_9 open 27 open
+subblock: n14642 4 5 ble_8 open 28 open
+subblock: n14643 6 7 ble_7 open 29 open
+subblock: n14644 8 9 ble_6 open 30 open
+subblock: n14645 10 11 ble_5 open 31 open
+subblock: n14646 12 13 ble_4 open 32 open
+subblock: n14647 14 15 ble_3 open 33 open
+subblock: n14648 16 17 ble_2 open 34 open
+subblock: n14649 18 19 ble_1 open 35 open
+subblock: n146410 20 open open open 36 open
+
+.clb n1926
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net8 net9 \
+net11 net12 net13 net14 net15 net16 net17 net18 net19 net24 \
+net505 open open open open open net505 open open open \
+open open open open open open open open open
+subblock: n19260 0 1 ble_10 open 26 38
+subblock: n19261 2 3 ble_9 open 27 open
+subblock: n19262 4 5 ble_8 open 28 open
+subblock: n19263 6 7 ble_7 open 29 open
+subblock: n19264 8 9 ble_6 open 30 open
+subblock: n19265 10 11 ble_5 open 31 open
+subblock: n19266 12 13 ble_4 open 32 open
+subblock: n19267 14 15 ble_3 open 33 open
+subblock: n19268 16 17 ble_2 open 34 open
+subblock: n19269 18 19 ble_1 open 35 open
+subblock: n192610 20 open open open 36 open
+
+.clb hetero_REGISTER_429_10877_out
+pinlist: net0 net1 net40 net125 net138 net266 net279 net282 net296 open \
+open open open open open open open open open open \
+open open open open open open net27 net135 net259 net263 \
+net269 net273 net276 net285 net289 net293 net299 open open
+subblock: hetero_REGISTER_429_10877_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10877_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_429_10877_out2 8 open open open 28 open
+subblock: hetero_REGISTER_429_10877_out3 9 open open open 29 open
+subblock: hetero_REGISTER_429_10877_out4 9 open open open 30 open
+subblock: hetero_REGISTER_429_10877_out5 9 open open open 31 open
+subblock: hetero_REGISTER_429_10877_out6 9 open open open 32 open
+subblock: hetero_REGISTER_429_10877_out7 9 open open open 33 open
+subblock: hetero_REGISTER_429_10877_out8 9 open open open 34 open
+subblock: hetero_REGISTER_429_10877_out9 9 open open open 35 open
+subblock: hetero_REGISTER_429_10877_out10 9 open open open 36 open
+
+.clb hetero_REGISTER_429_10853_out
+pinlist: net0 net1 net27 net31 net33 net34 net41 net123 net136 net140 \
+net286 net429 net441 net451 open open open open open open \
+open open open open open open net40 net126 net211 net329 \
+net436 net446 open open open open open open open
+subblock: hetero_REGISTER_429_10853_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10853_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_429_10853_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_429_10853_out3 12 13 open open 29 open
+subblock: hetero_REGISTER_429_10853_out4 14 open open open 30 open
+subblock: hetero_REGISTER_429_10853_out5 14 open open open 31 open
+
+.clb hetero_REGISTER_429_10821_out
+pinlist: net1 net20 net23 net25 net26 net28 net31 net32 net35 net41 \
+net42 net416 open open open open open open open open \
+open open open open open open net29 net34 net124 net127 \
+net137 net141 net423 net430 open open open open open
+subblock: hetero_REGISTER_429_10821_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10821_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_429_10821_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_429_10821_out3 12 open open open 29 open
+subblock: hetero_REGISTER_429_10821_out4 12 open open open 30 open
+subblock: hetero_REGISTER_429_10821_out5 12 open open open 31 open
+subblock: hetero_REGISTER_429_10821_out6 12 open open open 32 open
+subblock: hetero_REGISTER_429_10821_out7 12 open open open 33 open
+
+.clb hetero_REGISTER_429_10813_out
+pinlist: net20 net23 net29 net42 net119 net129 net142 net145 net148 net157 \
+net163 net177 net180 open open open open open open open \
+open open open open open open net32 net35 net107 net121 \
+net151 net154 net160 open open open open open open
+subblock: hetero_REGISTER_429_10813_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10813_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_429_10813_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_429_10813_out3 12 open open open 29 open
+subblock: hetero_REGISTER_429_10813_out4 13 open open open 30 open
+subblock: hetero_REGISTER_429_10813_out5 13 open open open 31 open
+subblock: hetero_REGISTER_429_10813_out6 13 open open open 32 open
+
+.clb n1534
+pinlist: net270 net342 net399 open open open open open open open \
+open open open open open open open open open open \
+open open open open open open net209 net328 net374 net403 \
+net404 open open open open open open open open
+subblock: n15340 0 1 2 open 26 38
+subblock: n15341 3 open open open 27 open
+subblock: n15342 3 open open open 28 open
+subblock: n15343 3 open open open 29 open
+subblock: n15344 3 open open open 30 open
+
+.clb n1798
+pinlist: net349 net412 net419 net439 net444 net449 net480 net482 net486 open \
+open open open open open open open open open open \
+open open open open open open net375 net400 net426 net433 \
+net476 net478 net484 net488 net489 net490 net491 open open
+subblock: n17980 0 1 2 3 26 38
+subblock: n17981 4 5 6 7 27 open
+subblock: n17982 8 open open open 28 open
+subblock: n17983 9 open open open 29 open
+subblock: n17984 9 open open open 30 open
+subblock: n17985 9 open open open 31 open
+subblock: n17986 9 open open open 32 open
+subblock: n17987 9 open open open 33 open
+subblock: n17988 9 open open open 34 open
+subblock: n17989 9 open open open 35 open
+subblock: n179810 9 open open open 36 open
+
+.clb n1419
+pinlist: net217 net427 net434 net471 net473 net475 net477 net479 net481 net485 \
+net487 open open open open open open open open open \
+open open open open open open net291 net330 net350 net376 \
+net405 net413 net420 net469 net483 open open open open
+subblock: n14190 0 1 2 3 26 38
+subblock: n14191 4 5 6 7 27 open
+subblock: n14192 8 9 10 open 28 open
+subblock: n14193 11 open open open 29 open
+subblock: n14194 11 open open open 30 open
+subblock: n14195 11 open open open 31 open
+subblock: n14196 11 open open open 32 open
+subblock: n14197 11 open open open 33 open
+subblock: n14198 11 open open open 34 open
+
+.clb hetero_REGISTER_429_10909_out
+pinlist: net265 net272 net278 net284 net288 open open open open open \
+open open open open open open open open open open \
+open open open open open open net219 net240 net244 net268 \
+net281 net292 net295 net298 open open open open open
+subblock: hetero_REGISTER_429_10909_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10909_out1 4 open open open 27 open
+subblock: hetero_REGISTER_429_10909_out2 5 open open open 28 open
+subblock: hetero_REGISTER_429_10909_out3 5 open open open 29 open
+subblock: hetero_REGISTER_429_10909_out4 5 open open open 30 open
+subblock: hetero_REGISTER_429_10909_out5 5 open open open 31 open
+subblock: hetero_REGISTER_429_10909_out6 5 open open open 32 open
+subblock: hetero_REGISTER_429_10909_out7 5 open open open 33 open
+
+.clb hetero_REGISTER_22_11116_out
+pinlist: net2 net91 net96 net97 net100 net103 net105 net109 net112 net113 \
+net120 net169 open open open open open open open open \
+open open open open open open net67 net94 net106 net110 \
+net115 net116 net118 net166 open open open open open
+subblock: hetero_REGISTER_22_11116_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_22_11116_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_22_11116_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_22_11116_out3 12 open open open 29 open
+subblock: hetero_REGISTER_22_11116_out4 12 open open open 30 open
+subblock: hetero_REGISTER_22_11116_out5 12 open open open 31 open
+subblock: hetero_REGISTER_22_11116_out6 12 open open open 32 open
+subblock: hetero_REGISTER_22_11116_out7 12 open open open 33 open
+
+.clb hetero_REGISTER_429_10820_out
+pinlist: net0 net2 net3 net4 net5 net6 net7 net8 net9 net11 \
+net12 net13 net14 net15 net77 net80 net83 open open open \
+open open open open open open net10 net86 net89 open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10820_out0 0 1 ble_8 open 26 38
+subblock: hetero_REGISTER_429_10820_out1 2 3 ble_7 open 27 open
+subblock: hetero_REGISTER_429_10820_out2 4 5 ble_6 open 28 open
+subblock: hetero_REGISTER_429_10820_out3 6 7 ble_5 open 29 open
+subblock: hetero_REGISTER_429_10820_out4 8 9 ble_4 open 30 open
+subblock: hetero_REGISTER_429_10820_out5 10 11 ble_3 open 31 open
+subblock: hetero_REGISTER_429_10820_out6 12 13 open open 32 open
+subblock: hetero_REGISTER_429_10820_out7 14 15 open open 33 open
+subblock: hetero_REGISTER_429_10820_out8 16 open open open 34 open
+
+.clb hetero_REGISTER_454_563_out
+pinlist: net0 net1 net2 net3 net4 net5 net6 net8 net9 net10 \
+net11 net12 net13 net14 net15 net16 net17 net21 net38 open \
+open open open open open open net22 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_454_563_out0 0 1 ble_9 open 26 38
+subblock: hetero_REGISTER_454_563_out1 2 3 ble_8 open 27 open
+subblock: hetero_REGISTER_454_563_out2 4 5 ble_7 open 28 open
+subblock: hetero_REGISTER_454_563_out3 6 7 ble_6 open 29 open
+subblock: hetero_REGISTER_454_563_out4 8 9 ble_5 open 30 open
+subblock: hetero_REGISTER_454_563_out5 10 11 ble_4 open 31 open
+subblock: hetero_REGISTER_454_563_out6 12 13 ble_3 open 32 open
+subblock: hetero_REGISTER_454_563_out7 14 15 ble_2 open 33 open
+subblock: hetero_REGISTER_454_563_out8 16 17 ble_1 open 34 open
+subblock: hetero_REGISTER_454_563_out9 18 open open open 35 open
+
+.clb hetero_REGISTER_429_10869_out
+pinlist: net0 net1 net2 net3 net4 net5 net7 net8 net9 net10 \
+net11 net12 net13 net14 net15 net16 net17 net22 net24 net38 \
+net506 open open open open open net506 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10869_out0 0 1 ble_10 open 26 38
+subblock: hetero_REGISTER_429_10869_out1 2 3 ble_9 open 27 open
+subblock: hetero_REGISTER_429_10869_out2 4 5 ble_8 open 28 open
+subblock: hetero_REGISTER_429_10869_out3 6 7 ble_7 open 29 open
+subblock: hetero_REGISTER_429_10869_out4 8 9 ble_6 open 30 open
+subblock: hetero_REGISTER_429_10869_out5 10 11 ble_5 open 31 open
+subblock: hetero_REGISTER_429_10869_out6 12 13 ble_4 open 32 open
+subblock: hetero_REGISTER_429_10869_out7 14 15 ble_3 open 33 open
+subblock: hetero_REGISTER_429_10869_out8 16 17 ble_2 open 34 open
+subblock: hetero_REGISTER_429_10869_out9 18 19 ble_1 open 35 open
+subblock: hetero_REGISTER_429_10869_out10 20 open open open 36 open
+
+.clb n1420_1
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net8 net9 \
+net10 net11 net12 net13 net14 net15 net16 net17 net24 net132 \
+net507 open open open open open net507 open open open \
+open open open open open open open open open
+subblock: n1420_10 0 1 ble_10 open 26 38
+subblock: n1420_11 2 3 ble_9 open 27 open
+subblock: n1420_12 4 5 ble_8 open 28 open
+subblock: n1420_13 6 7 ble_7 open 29 open
+subblock: n1420_14 8 9 ble_6 open 30 open
+subblock: n1420_15 10 11 ble_5 open 31 open
+subblock: n1420_16 12 13 ble_4 open 32 open
+subblock: n1420_17 14 15 ble_3 open 33 open
+subblock: n1420_18 16 17 ble_2 open 34 open
+subblock: n1420_19 18 19 ble_1 open 35 open
+subblock: n1420_110 20 open open open 36 open
+
+.clb n1449
+pinlist: net0 net1 net33 net138 net206 net228 net234 net252 open open \
+open open open open open open open open open open \
+open open open open open open net125 net210 net214 net218 \
+net222 net225 net231 net238 net242 net245 net249 net255 open
+subblock: n14490 0 1 2 3 26 38
+subblock: n14491 4 5 6 7 27 open
+subblock: n14492 8 open open open 28 open
+subblock: n14493 8 open open open 29 open
+subblock: n14494 8 open open open 30 open
+subblock: n14495 8 open open open 31 open
+subblock: n14496 8 open open open 32 open
+subblock: n14497 8 open open open 33 open
+subblock: n14498 8 open open open 34 open
+subblock: n14499 8 open open open 35 open
+subblock: n144910 8 open open open 36 open
+subblock: n144911 8 open open open 37 open
+
+.clb hetero_REGISTER_429_10845_out
+pinlist: net0 net1 net27 net33 net126 net436 net446 open open open \
+open open open open open open open open open open \
+open open open open open open net28 net140 net429 net441 \
+net451 open open open open open open open open
+subblock: hetero_REGISTER_429_10845_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_429_10845_out1 4 5 6 open 27 open
+subblock: hetero_REGISTER_429_10845_out2 7 open open open 28 open
+subblock: hetero_REGISTER_429_10845_out3 7 open open open 29 open
+subblock: hetero_REGISTER_429_10845_out4 7 open open open 30 open
+
+.clb hetero_REGISTER_429_10849_out
+pinlist: net1 net28 net29 net127 net141 net423 net430 open open open \
+open open open open open open open open open open \
+open open open open open open net416 open open open \
+open open open open open open open open open
+subblock: hetero_REGISTER_429_10849_out0 0 1 ble_3 open 26 38
+subblock: hetero_REGISTER_429_10849_out1 2 3 ble_2 open 27 open
+subblock: hetero_REGISTER_429_10849_out2 4 5 ble_1 open 28 open
+subblock: hetero_REGISTER_429_10849_out3 6 open open open 29 open
+
+.clb hetero_REGISTER_454_558_out
+pinlist: net23 net29 net107 net121 net129 net194 net205 net208 net213 net216 \
+net224 net233 net236 net239 open open open open open open \
+open open open open open open net119 net198 net201 net221 \
+net227 net230 open open open open open open open
+subblock: hetero_REGISTER_454_558_out0 0 1 2 3 26 38
+subblock: hetero_REGISTER_454_558_out1 4 5 6 7 27 open
+subblock: hetero_REGISTER_454_558_out2 8 9 10 11 28 open
+subblock: hetero_REGISTER_454_558_out3 12 13 open open 29 open
+subblock: hetero_REGISTER_454_558_out4 14 open open open 30 open
+subblock: hetero_REGISTER_454_558_out5 14 open open open 31 open
+
+.clb hetero_REGISTER_429_10918_out
+pinlist: net356 net359 net369 open open open open open open open \
+open open open open open open open open open open \
+open open open open open open net340 net344 net347 net366 \
+net380 net389 net392 net393 net395 net396 net401 open open
+subblock: hetero_REGISTER_429_10918_out0 0 1 2 open 26 38
+subblock: hetero_REGISTER_429_10918_out1 3 open open open 27 open
+subblock: hetero_REGISTER_429_10918_out2 3 open open open 28 open
+subblock: hetero_REGISTER_429_10918_out3 3 open open open 29 open
+subblock: hetero_REGISTER_429_10918_out4 3 open open open 30 open
+subblock: hetero_REGISTER_429_10918_out5 3 open open open 31 open
+subblock: hetero_REGISTER_429_10918_out6 3 open open open 32 open
+subblock: hetero_REGISTER_429_10918_out7 3 open open open 33 open
+subblock: hetero_REGISTER_429_10918_out8 3 open open open 34 open
+subblock: hetero_REGISTER_429_10918_out9 3 open open open 35 open
+subblock: hetero_REGISTER_429_10918_out10 3 open open open 36 open
+
+.clb n1891
+pinlist: net476 net478 net484 net488 net489 net490 net491 open open open \
+open open open open open open open open open open \
+open open open open open open net480 net482 net486 open \
+open open open open open open open open open
+subblock: n18910 0 1 2 3 26 38
+subblock: n18911 4 5 6 open 27 open
+subblock: n18912 7 open open open 28 open
+
+.clb n1514
+pinlist: net469 net483 open open open open open open open open \
+open open open open open open open open open open \
+open open open open open open net471 net473 net475 net477 \
+net479 net481 net485 net487 open open open open open
+subblock: n15140 0 1 open open 26 38
+subblock: n15141 2 open open open 27 open
+subblock: n15142 2 open open open 28 open
+subblock: n15143 2 open open open 29 open
+subblock: n15144 2 open open open 30 open
+subblock: n15145 2 open open open 31 open
+subblock: n15146 2 open open open 32 open
+subblock: n15147 2 open open open 33 open
+
+.clb n1530_1
+pinlist: net335 net341 net354 net371 net377 net379 open open open open \
+open open open open open open open open open open \
+open open open open open open net345 net348 net357 net360 \
+net367 net368 net370 net381 net382 net384 net387 net390 open
+subblock: n1530_10 0 1 2 3 26 38
+subblock: n1530_11 4 5 open open 27 open
+subblock: n1530_12 6 open open open 28 open
+subblock: n1530_13 6 open open open 29 open
+subblock: n1530_14 6 open open open 30 open
+subblock: n1530_15 6 open open open 31 open
+subblock: n1530_16 6 open open open 32 open
+subblock: n1530_17 6 open open open 33 open
+subblock: n1530_18 6 open open open 34 open
+subblock: n1530_19 6 open open open 35 open
+subblock: n1530_110 6 open open open 36 open
+subblock: n1530_111 6 open open open 37 open
+
+.clb n1577
+pinlist: net2 net93 net94 net96 net97 net100 net103 net106 net109 net110 \
+net113 net115 net116 net118 open open open open open open \
+open open open open open open net91 net99 net102 net105 \
+net112 net120 open open open open open open open
+subblock: n15770 0 1 2 3 26 38
+subblock: n15771 4 5 6 7 27 open
+subblock: n15772 8 9 10 11 28 open
+subblock: n15773 12 13 open open 29 open
+subblock: n15774 14 open open open 30 open
+subblock: n15775 14 open open open 31 open
+
+.clb n1536_1
+pinlist: net0 net2 net3 net4 net5 net6 net7 net8 net9 net10 \
+net11 net12 net13 net14 net15 net74 net77 open open open \
+open open open open open open net71 net80 net83 open \
+open open open open open open open open open
+subblock: n1536_10 0 1 ble_8 open 26 38
+subblock: n1536_11 2 3 ble_7 open 27 open
+subblock: n1536_12 4 5 ble_6 open 28 open
+subblock: n1536_13 6 7 ble_5 open 29 open
+subblock: n1536_14 8 9 ble_4 open 30 open
+subblock: n1536_15 10 11 ble_3 open 31 open
+subblock: n1536_16 12 13 open open 32 open
+subblock: n1536_17 14 15 open open 33 open
+subblock: n1536_18 16 open open open 34 open
+
+.clb n1690
+pinlist: net0 net1 net2 net3 net4 net5 net6 net7 net8 net9 \
+net10 net11 net12 net13 net14 net16 net17 net38 net508 open \
+open open open open open open net508 open open open \
+open open open open open open open open open
+subblock: n16900 0 1 ble_9 open 26 38
+subblock: n16901 2 3 ble_8 open 27 open
+subblock: n16902 4 5 ble_7 open 28 open
+subblock: n16903 6 7 ble_6 open 29 open
+subblock: n16904 8 9 ble_5 open 30 open
+subblock: n16905 10 11 ble_4 open 31 open
+subblock: n16906 12 13 ble_3 open 32 open
+subblock: n16907 14 15 ble_2 open 33 open
+subblock: n16908 16 17 ble_1 open 34 open
+subblock: n16909 18 open open open 35 open
+
+.clb fir_scu_rtl_restructured_for_cmm_exp_result_5
+pinlist: net0 net2 net3 net4 net5 net6 net7 net8 net9 net10 \
+net11 net12 net13 net14 net15 net16 net17 open open open \
+open open open open open open net24 net38 open open \
+open open open open open open open open open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_50 0 1 ble_8 open 26 38
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_51 2 3 ble_7 open 27 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_52 4 5 ble_6 open 28 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_53 6 7 ble_5 open 29 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_54 8 9 ble_4 open 30 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_55 10 11 ble_3 open 31 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_56 12 13 ble_2 open 32 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_57 14 15 open open 33 open
+subblock: fir_scu_rtl_restructured_for_cmm_exp_result_58 16 open open open 34 open
+
+.clb vcc
+pinlist: net0 net1 net2 net3 net4 net5 net7 net8 net9 net10 \
+net12 net13 net14 net16 net17 net24 net132 net172 open open \
+open open open open open open net11 net15 open open \
+open open open open open open open open open
+subblock: vcc0 0 1 ble_8 open 26 38
+subblock: vcc1 2 3 ble_7 open 27 open
+subblock: vcc2 4 5 ble_6 open 28 open
+subblock: vcc3 6 7 ble_5 open 29 open
+subblock: vcc4 8 9 ble_4 open 30 open
+subblock: vcc5 10 11 ble_3 open 31 open
+subblock: vcc6 12 13 ble_2 open 32 open
+subblock: vcc7 14 15 open open 33 open
+subblock: vcc8 16 17 open open 34 open
+
+.mult_36 mult_36_0
+pinlist: net44 net45 net46 net47 net49 net50 net51 net52 net53 net56 net58 net59 net62 net63 net64 net65 net68 net69 net72 net75 net76 net79 net84 net88 net90 net165 open open open open open open open open open open net48 net55 net61 net78 net81 net87 net168 net171 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 open open open open open open open open open open 36 37 38 39 40 41 42 43 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_1
+pinlist: net92 net95 net98 net108 net111 net114 net128 net131 net146 net149 net155 net164 net173 net175 net179 net181 net183 net188 net199 net202 open open open open open open open open open open open open open open open open net101 net104 net117 net133 net143 net152 net158 net161 net186 net190 net192 net195 open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 open open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 45 46 47 open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_2
+pinlist: net142 net144 net147 net148 net151 net153 net154 net156 net162 net187 net191 net196 net200 net204 net207 net220 net226 net232 net310 net317 net324 open open open open open open open open open open open open open open open net139 net150 net157 net159 net223 net229 net235 net303 net306 net313 net321 net331 open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 45 46 47 open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_3
+pinlist: net243 net244 net250 net253 net256 net260 net264 net267 net274 net280 net281 net283 net290 net292 net295 net297 net298 net302 net307 net309 net311 open open open open open open open open open open open open open open open net265 net271 net272 net277 net278 net284 net287 net294 net301 net304 net314 net318 open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 45 46 47 open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_4
+pinlist: net60 net66 net70 net71 net73 net80 net82 net83 net86 net89 net94 net99 net102 net105 net106 net112 net115 net116 net118 open open open open open open open open open open open open open open open open open net54 net57 net74 net77 net85 net93 net96 net109 net169 open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 open open open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_5
+pinlist: net210 net214 net218 net222 net225 net231 net238 net242 net245 net249 net255 net259 net263 net269 net273 net276 net285 net289 net293 net299 open open open open open open open open open open open open open open open open net132 net206 net228 net234 net252 net266 net279 net282 net296 open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 open open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_6
+pinlist: net160 net163 net184 net221 net340 net344 net347 net366 net380 net389 net392 net393 net395 net396 net401 net403 net404 open open open open open open open open open open open open open open open open open open open net145 net177 net180 net194 net205 net208 net224 net236 net239 net356 net359 net369 open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 open open open open open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 45 46 47 open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_7
+pinlist: net240 net268 net312 net320 net323 net343 net345 net348 net355 net357 net358 net360 net365 net367 net370 net381 net382 net384 open open open open open open open open open open open open open open open open open open net288 net305 net315 net326 net335 net336 net341 net346 net351 net354 net371 net377 open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 open open open open open open open open open open open open open open open open open open 36 37 38 39 40 41 42 43 44 45 46 47 open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_8
+pinlist: net91 net110 net120 net166 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open net97 net100 net103 net113 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 36 37 38 39 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_9
+pinlist: open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open net172 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 36 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_10
+pinlist: net198 net201 net227 net230 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open net213 net216 net233 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 3 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 36 37 38 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
+.mult_36 mult_36_11
+pinlist: net368 net387 net390 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open net379 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open
+subblock: sub0 0 1 2 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 36 open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open open 
+
